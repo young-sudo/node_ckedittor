@@ -1,7 +1,9 @@
 # node_ckeditor
 
 ## 1，cd files-server
-### node app.js
+### npm instll
+#### node app.js
 
 ## 2，cd node-server
-### npm run start
+### npm instll
+#### npm run start

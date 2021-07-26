@@ -5,7 +5,7 @@ var path = require('path');
 var fs =require('fs');
 
 //图片上传
-router.post('/uploadImg',(req,res) => {
+router.post('/upload',(req,res) => {
   let address ="http://" + req.headers.host;
   //图片上传路径
   var  uploadURL = path.join(__dirname,"../public/images");
